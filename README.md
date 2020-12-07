@@ -1,0 +1,3 @@
+# Multiple-Admin-Panel-Scanner
+Example Sitelist.txt in site => http://test.com/ or https://test.com/
+Example Adminlist.txt in admin lists => directory name. Ex: admin or panel or bla bla... 
